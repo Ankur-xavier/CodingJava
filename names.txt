@@ -1,0 +1,7 @@
+Hello this is the first file created via linux and its just for testing purpose
+
+
+new line :wq
+
+wq
+
